@@ -20,14 +20,6 @@ Determine the **optimal threshold** for shutting down low-consumption cells to r
 
 Generate **automated reports** summarizing energy trends, anomalies, and optimization recommendations. 📈🔍
 
-### 📊 Interactive Dashboard (Bonus)
-
-Build a **management-friendly dashboard** to visualize energy costs, usage trends, and cost-saving insights in real-time. 🖥📉
-
-### ⚙️ Seamless User Experience
-
-Access well-structured and documented code via **Google Colab/Jupyter Notebook** for reproducibility and deeper analysis.
-
 --- 
 
 🔗**Optimize Energy. Reduce Costs. Make Data-Driven Decisions.**
